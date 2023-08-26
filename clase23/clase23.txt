@@ -1,0 +1,3 @@
+CLASE 23: RUTEO AVANZADO Y ESTRATEGIAS
+
+Se puede leer la información del JWT.
